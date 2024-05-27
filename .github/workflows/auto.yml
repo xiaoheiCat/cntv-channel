@@ -1,0 +1,26 @@
+name: Extract M3U Info
+on:
+  push:
+    paths-ignore:
+      tv-channels.txt
+  schedule:
+    - cron: '0 * * * *'
+jobs:
+  extract:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+#    - name: Install Python dependencies
+#      run: |
+#        pip install --upgrade pip
+#        python -m pip install -r requirements.txt
+    - name: Extract and write to file
+      run: python m3u_extractor.py
+    - name: Commit and push changes
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add tv-channels.txt
+        git commit -m "Auto updated channel list"
+        git push origin main
