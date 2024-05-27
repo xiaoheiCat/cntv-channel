@@ -1,0 +1,55 @@
+#EXTM3U 
+
+#EXTINF:-1 tvg-id="cctv1",CCTV-1 综合
+https://ldncctvwbcdcnc.v.wscdns.com/ldncctvwbcd/cdrmldcctv1_1_1080P/playlist.m3u8
+
+#EXTINF:-1 tvg-id="cctv2",CCTV-2 财经
+https://ldncctvwbcdcnc.v.wscdns.com/ldncctvwbcd/cdrmldcctv2_1_1080P/playlist.m3u8
+
+#EXTINF:-1 tvg-id="cctv3",CCTV-3 综艺
+https://ldncctvwbcdcnc.v.wscdns.com/ldncctvwbcd/cdrmldcctv3_1_1080P/playlist.m3u8
+
+#EXTINF:-1 tvg-id="cctv4",CCTV-4 中文国际
+https://ldncctvwbcdcnc.v.wscdns.com/ldncctvwbcd/cdrmldcctv4_1_1080P/playlist.m3u8
+
+#EXTINF:-1 tvg-id="cctv5",CCTV-5 体育
+https://ldncctvwbcdcnc.v.wscdns.com/ldncctvwbcd/cdrmldcctv5_1_1080P/playlist.m3u8
+
+#EXTINF:-1 tvg-id="cctv5plus",CCTV-5+ 体育赛事
+https://ldncctvwbcdcnc.v.wscdns.com/ldncctvwbcd/cdrmldcctv5plus_1_1080P/playlist.m3u8
+
+#EXTINF:-1 tvg-id="cctv6",CCTV-6 电影
+https://ldncctvwbcdcnc.v.wscdns.com/ldncctvwbcd/cdrmldcctv6_1_1080P/playlist.m3u8
+
+#EXTINF:-1 tvg-id="cctv7",CCTV-7 国防军事
+https://ldncctvwbcdcnc.v.wscdns.com/ldncctvwbcd/cdrmldcctv7_1_1080P/playlist.m3u8
+
+#EXTINF:-1 tvg-id="cctv8",CCTV-8 电视剧
+https://ldncctvwbcdcnc.v.wscdns.com/ldncctvwbcd/cdrmldcctv8_1_1080P/playlist.m3u8
+
+#EXTINF:-1 tvg-id="cctv9",CCTV-9 纪录
+https://ldncctvwbcdcnc.v.wscdns.com/ldncctvwbcd/cdrmldcctv9_1_1080P/playlist.m3u8
+
+#EXTINF:-1 tvg-id="cctv10",CCTV-10 科教
+https://ldncctvwbcdcnc.v.wscdns.com/ldncctvwbcd/cdrmldcctv10_1_1080P/playlist.m3u8
+
+#EXTINF:-1 tvg-id="cctv11",CCTV-11 戏曲
+https://ldncctvwbcdcnc.v.wscdns.com/ldncctvwbcd/cdrmldcctv11_1_1080P/playlist.m3u8
+
+#EXTINF:-1 tvg-id="cctv12",CCTV-12 社会与法
+https://ldncctvwbcdcnc.v.wscdns.com/ldncctvwbcd/cdrmldcctv12_1_1080P/playlist.m3u8
+
+#EXTINF:-1 tvg-id="cctv13",CCTV-13 新闻
+https://ldncctvwbcdcnc.v.wscdns.com/ldncctvwbcd/cdrmldcctv13_1_1080P/playlist.m3u8
+
+#EXTINF:-1 tvg-id="cctv14",CCTV-14 少儿
+https://ldncctvwbcdcnc.v.wscdns.com/ldncctvwbcd/cdrmldcctv14_1_1080P/playlist.m3u8
+
+#EXTINF:-1 tvg-id="cctv15",CCTV-15 音乐
+https://ldncctvwbcdcnc.v.wscdns.com/ldncctvwbcd/cdrmldcctv15_1_1080P/playlist.m3u8
+
+#EXTINF:-1 tvg-id="cctv16",CCTV-16 奥林匹克
+https://ldncctvwbcdcnc.v.wscdns.com/ldncctvwbcd/cdrmldcctv16_1_1080P/playlist.m3u8
+
+#EXTINF:-1 tvg-id="cctv17",CCTV-17 农业农村
+https://ldncctvwbcdcnc.v.wscdns.com/ldncctvwbcd/cdrmldcctv17_1_1080P/playlist.m3u8
