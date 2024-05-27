@@ -1,2 +1,2 @@
 # cntv-channel
-Some tvbox TV channels from CNTV website
+Some m3u8 TV channels from CNTV website
